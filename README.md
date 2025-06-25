@@ -1,6 +1,6 @@
 Live Project::-https://pro-coundown-quotes-5dpk.vercel.app/
 
-****![Screenshot 2025-06-25 174221](https://github.com/user-attachments/assets/733b89fc-3d0f-4ecd-9af1-061bbbcda281)
+![Screenshot 2025-06-25 174221](https://github.com/user-attachments/assets/733b89fc-3d0f-4ecd-9af1-061bbbcda281)
 
 Project Title: Countdown & Quotes Web App
 
